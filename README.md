@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **ScottaEvandro/ScottaEvandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Google Cloud Certified - Cloud Engineer](https://cdn.qwiklabs.com/ztxgSFqAZlTxxZVoDi6Dg5cNRDxAg%2FZbjkxFkGpK18Y%3D)
 -->
+
+📜 Google Skills Badges
+
+[![Google Cloud Certified - Cloud Engineer](https://images.credly.com/size/180x180/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](https://www.credly.com/badges/eea4d07a-5fbe-4535-9f60-31fc2c4fbc18/public_url)
+[![Google Cloud Certified - Cloud Engineer](https://images.credly.com/size/180x180/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](https://www.credly.com/badges/342fbcf0-9b85-4b18-924e-710a220c72b5/public_url)
+[![Google Cloud Certified - Cloud Engineer](https://images.credly.com/size/180x180/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](https://www.credly.com/badges/b958c722-f69b-427a-b6da-f2a8ee317217/public_url)
